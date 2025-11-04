@@ -1,0 +1,14 @@
+{
+  "name": "jules-api-nodejs-example",
+  "version": "1.0.0",
+  "description": "An example Node.js script for interacting with the Jules API.",
+  "main": "julesApiExample.js",
+  "scripts": {
+    "start": "node julesApiExample.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
